@@ -5,7 +5,7 @@ from enum import IntEnum
 from pygame.locals import *
 
 # kudos to: https://www.askpython.com/python/examples/connect-four-game
-# color hex codes
+# color RGB codes
 BLUE = (0,0,255)
 BLACK = (0,0,0)
 RED = (255,0,0)
